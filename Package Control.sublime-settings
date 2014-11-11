@@ -1,0 +1,15 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Code Foo",
+		"Git",
+		"GitGutter",
+		"Package Control",
+		"PlainTasks",
+		"Snake",
+		"sublimelint",
+		"SublimeLinter",
+		"TrailingSpaces"
+	]
+}
