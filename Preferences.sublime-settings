@@ -3,5 +3,7 @@
 {
 	"ignored_packages": [],
 	"vintage_start_in_command_mode": true,
-	"vintage_ctrl_keys": true
+	"vintage_ctrl_keys": true,
+	"spell_check": true,
+	"dictionary": "Packages/Language - English/en_US.dic"
 }
